@@ -1,0 +1,1 @@
+insert into department values(105,"development",20);
